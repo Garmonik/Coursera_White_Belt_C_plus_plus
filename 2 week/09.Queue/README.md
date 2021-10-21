@@ -27,7 +27,7 @@
 
 ```
   Ввод
-  8
+8
 COME 5
 WORRY 1
 WORRY 4
