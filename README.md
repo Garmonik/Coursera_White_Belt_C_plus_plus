@@ -120,3 +120,5 @@ C++ позволяет вам писать эффективный код тог�
    * Первое кумитэ
    
       * Финальный проект: База данных
+
+![picture alt](https://github.com/Garmonik/Coursera_White_Belt_C_plus_plus/blob/main/Coursera_Certificate_White_Belt.png)
