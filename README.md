@@ -1,6 +1,6 @@
 # Основы разработки на C++: белый пояс #
 
-![picture alt](![image](https://user-images.githubusercontent.com/70436486/139537456-f50e8b9f-6927-4b8b-93dd-2ca39bef01f4.png))
+![image](https://user-images.githubusercontent.com/70436486/139537456-f50e8b9f-6927-4b8b-93dd-2ca39bef01f4.png)
 
 ## Зачем учить С++? ##
 
