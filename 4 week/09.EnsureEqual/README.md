@@ -11,10 +11,22 @@ void EnsureEqual(const string& left, const string& right);
 
 Если ***left == right***, функция должна корректно завершаться.
 
-Например, код
+***Например, код***
 
+```C++
+int main() {
+  try {
+    EnsureEqual("C++ White", "C++ White");
+    EnsureEqual("C++ White", "C++ Yellow");
+  } catch (runtime_error& e) {
+    cout << e.what() << endl;
+  }
+  return 0;
+}
 ```
-Ivan Ivanov
-3.3.1903
-bad request
+
+должен выводить:
+  
+```
+C++ White != C++ Yellow
 ```
