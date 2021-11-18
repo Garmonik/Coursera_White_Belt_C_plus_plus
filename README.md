@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/70436486/139537456-f50e8b9f-6927-4b8b-93dd-2ca39bef01f4.png)
 
-C_1
+C_<1>
 
 ## Зачем учить С++? ##
 
